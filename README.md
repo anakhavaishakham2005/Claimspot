@@ -2,22 +2,8 @@
 
 
 ## Basic Details
-### Team Name: TechSavvy
-
-
-### Team Members
-- Member 1: Diya Nazeer - LBSITW,Trivandrum
-- Member 2: Anakha S - LBSITW,Trivandrum
-- Member 3: Anjana Satheesh - LBSITW,Trivandrum
-
-### Hosted Project Link
-[mention your project hosted project link here]
-
 ### Project Description
 If someone has lost something in the college campus ,you can post it on the website. 
-
-
-
 
 You have to provide your details,with emailID,and upload a picture of the lost item with description and the location from where you found it/last saw it.
 
@@ -35,17 +21,6 @@ For Software:
 - JavaScript
 - PHP
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
 # Screenshots
 ![landing page](https://github.com/user-attachments/assets/f97ee5cb-9d12-473e-8d72-a154e7160e16)
 *Loader*
@@ -62,16 +37,6 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1Z2BsrQZesYBGdtRucR3rnAyon7ud3yrg/view?usp=sharing]
+*The video begins from our loader page, then to index page.. which has the already posted items... The create post button takes you to a form to create a post which will be posted on the index. If you want to Maark as Found, you have to re-enter the same email given during the time of posting*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
-Made with ❤️ at TinkerHub
