@@ -8,7 +8,7 @@ If someone has lost something in the college campus ,you can post it on the webs
 You have to provide your details,with emailID,and upload a picture of the lost item with description and the location from where you found it/last saw it.
 
 ### The Problem statement
-Misplaced.Not Forgotten:Reuniting Items and Owners on Campus
+Misplaced,Not Forgotten: Reuniting Items and Owners on Campus
 
 ### The Solution
 - The website provides a user-friendly interface to create posts, view lost items, and mark items as found, with enhanced security that allows only the person who posted an item (via email) to delete their own post.
@@ -38,5 +38,5 @@ For Software:
 ### Project Demo
 # Video
 [https://drive.google.com/file/d/1Z2BsrQZesYBGdtRucR3rnAyon7ud3yrg/view?usp=sharing]
-*The video begins from our loader page, then to index page.. which has the already posted items... The create post button takes you to a form to create a post which will be posted on the index. If you want to Maark as Found, you have to re-enter the same email given during the time of posting*
+*The video begins from our loader page, then to index page.. which has the already posted items... The create post button takes you to a form to create a post which will be posted on the index. If you want to Mark as Found, you have to re-enter the same email given during the time of posting*
 
